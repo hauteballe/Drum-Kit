@@ -11,7 +11,7 @@ html {
   font-family: sans-serif;
 }
 
-.keys {
+.keys-wrapper {
   display: flex;
   flex: 1;
   min-height: 100vh;
@@ -33,7 +33,7 @@ html {
   text-shadow: 0 0 0.5rem black;
 }
 
-.playing {
+.playback {
   transform: scale(1.1);
   border-color: #ffc600;
   box-shadow: 0 0 1rem #ffc600;
